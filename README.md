@@ -4,6 +4,7 @@ The Claude Code marketplace for the Wright family of plugins. It lists each plug
 
 | Plugin | What it does | Project |
 |---|---|---|
+| `bindwright` | Sets up a repo for agentic coding from a few questions: rules, session skills, guard hooks and review workflows, fitted to the repo. | [starfoxcom/bindwright](https://github.com/starfoxcom/bindwright) |
 | `findwright` | A code index that adapts to each project: plain-English questions, names and regex searches over every file the project tracks. | [starfoxcom/findwright](https://github.com/starfoxcom/findwright) |
 
 ## Install
@@ -12,6 +13,7 @@ Add the marketplace once, then install a plugin from it:
 
 ```
 claude plugin marketplace add starfoxcom/wrights
+claude plugin install bindwright@wrights
 claude plugin install findwright@wrights
 ```
 

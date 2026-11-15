@@ -19,11 +19,11 @@
     {
       "name": "findwright",
       "description": "A code index that adapts to each project: plain-English questions, names and regex searches over every file the project tracks, served to Claude over MCP.",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "source": {
         "source": "archive",
-        "url": "https://github.com/starfoxcom/findwright/releases/download/v2.0.0/findwright-2.0.0.zip",
-        "sha256": "3e0d63847066cda53b776173114122f3a674c2979d358ff8c99ee2df5bf0c7ae"
+        "url": "https://github.com/starfoxcom/findwright/releases/download/v2.0.1/findwright-2.0.1.zip",
+        "sha256": "474b06ffd669aead682ff0d340db4ae81f1c1c00624e0ee5dad3e91cd085d702"
       }
     }
   ]

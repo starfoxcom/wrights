@@ -9,11 +9,11 @@
     {
       "name": "bindwright",
       "description": "Sets up a repo for agentic coding from a few questions in the session: rules, session skills, guard hooks and review workflows, fitted to the repo.",
-      "version": "7.8.0",
+      "version": "7.9.0",
       "source": {
         "source": "archive",
-        "url": "https://github.com/starfoxcom/bindwright/releases/download/v7.8.0/bindwright-7.8.0.zip",
-        "sha256": "9c8ef601c281c490ef6a3b3892da75f1d0c2521b0b14adc3a2d60d3ce4786fba"
+        "url": "https://github.com/starfoxcom/bindwright/releases/download/v7.9.0/bindwright-7.9.0.zip",
+        "sha256": "dd1b7b4ca8cbedb6d2b846e0c5e7ff68c6de4507b41d08d1237bda7f33a1ae6f"
       }
     },
     {
